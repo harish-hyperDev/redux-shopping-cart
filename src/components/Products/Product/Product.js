@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Product.css";
+import styles from "./Product.module.css";
 import {Link} from 'react-router-dom';
 
 import {connect} from 'react-redux'
